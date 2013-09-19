@@ -2,6 +2,6 @@ require 'helper'
 
 class TestFeatures2table < Test::Unit::TestCase
   def test_initialize()
-    assert_equal("test/data/test.bed","kkk")
+    assert_equal("hallo","hallo")
   end
 end

@@ -7,3 +7,4 @@ require 'features2table/logging'
 include Logging
 require 'features2table/functions'
 include Functions
+require 'features2table/feature_quantifications'
